@@ -1,3 +1,4 @@
+
 # Zeta React Code Challenge
 
 Hello! Below are the instructions for a code challenge we'd like you to prepare. Please limit yourself to 3-4 hours maximum on your solution, we want to respect your time but ask for a small commitment to see your skills in action.
@@ -37,5 +38,8 @@ Time permitting, choose one or several of the following features and implement t
 Your solution will be used as the basis of a code reviewing and pairing interview. Be prepared to talk about your code, why you made certain decisions, and be ready to walk another developer through your codebase.
 
 ## How to Submit
-- Upload a tar or zip file to GDrive, Dropbox, S3, etc and provide me with a link to download your files.
-- Fork this repo in Github and submit a pull request
+Upload a tar or zip file to GDrive, Dropbox, S3, etc and provide me with a link to download your files.
+
+OR
+
+Fork this repo in Github and submit a pull request
