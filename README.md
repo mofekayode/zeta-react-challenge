@@ -5,7 +5,7 @@ Hello! Below are the instructions for a code challenge we'd like you to prepare.
 
 ## The Challenge
 
-Build a to-do list app in React. It should meet the following:
+Build a todo list app in React. It should meet the following:
 
 #### Product Requirements
 - As a user, I can add an item to my todo list
@@ -28,12 +28,12 @@ Build a to-do list app in React. It should meet the following:
 ## Extra Features
 Time permitting, choose one or several of the following features and implement them.
 
-- A task can have a due date that can be set in an accessible way
-- A task can be marked completed and marked incomplete if I make a mistake clicking
-- I can filter my task list into completed vs incomplete
-- To-dos can be ordered, and I drag and drop a 'handle' to change its ordering
+- A todo can have a due date that can be set in an accessible way
+- A todo can be marked completed and marked incomplete if I make a mistake clicking
+- I can filter my todos list into completed vs incomplete
+- Todos can be ordered, and I drag and drop a 'handle' to change its ordering
 - The code base is tested, either unit tested or integration tested
-- To-dos have browser-based storage for persistence
+- Todos have browser-based storage for persistence
 
 Your solution will be used as the basis of a code reviewing and pairing interview. Be prepared to talk about your code, why you made certain decisions, and be ready to walk another developer through your codebase.
 
