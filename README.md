@@ -20,7 +20,6 @@ Build a to-do list app in React. It should meet the following:
 #### Technical Requirements
 - Be launch-able from the command line and browsable in the browser
 - Built in React
-- Browser-based storage for to-do items
 - Use a component styling library. Not a static css asset
 - Include a readme of how to install dependencies and launch the app
 
@@ -31,8 +30,9 @@ Time permitting, choose one or several of the following features and implement t
 - A task can have a due date that can be set in an accessible way
 - A task can be marked completed and marked incomplete if I make a mistake clicking
 - I can filter my task list into completed vs incomplete
-- Tasks can be ordered, and I drag and drop a 'handle' to change its ordering
+- To-dos can be ordered, and I drag and drop a 'handle' to change its ordering
 - The code base is tested, either unit tested or integration tested
+- To-dos have browser-based storage for persistence
 
 Your solution will be used as the basis of a code reviewing and pairing interview. Be prepared to talk about your code, why you made certain decisions, and be ready to walk another developer through your codebase.
 
