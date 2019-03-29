@@ -20,7 +20,7 @@ Build a to-do list app in React. It should meet the following:
 #### Technical Requirements
 - Be launch-able from the command line and browsable in the browser
 - Built in React
-- Use a component styling library. Not a static css asset
+- Style using CSS-in-JS. For example using Styled Components, Emotion, styled-js, or just `style` tags on the elements
 - Include a readme of how to install dependencies and launch the app
 
 
