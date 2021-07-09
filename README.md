@@ -1,9 +1,13 @@
+# Getting Started 
+
 npm install in the terminal
 
-Running in browser
+## Running in browser
+
 npm start in the terminal (this will open up on Local port 3000
 
-Features
+### Features
+
 -Add a todo
 
 -Delete a todo
@@ -15,3 +19,5 @@ Features
 -filter todos by complete
 
 -Persist todos in local storage
+
+
