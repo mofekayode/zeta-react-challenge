@@ -17,6 +17,9 @@ export const TodoApp = styled.div`
     rgb(36, 37, 41) -12px -12px 24px 0px;
   border-radius: 40px;
   -webkit-border-radius: 40px;
+  @media (max-width: 550px) {
+    width: 330px;
+  }
 `;
 export const Form = styled.form`
   margin-bottom: 32px;
@@ -29,6 +32,9 @@ export const Input = styled.input`
   width: 320px;
   background: transparent;
   color: #fff;
+  @media (max-width: 550px) {
+    width: 280px;
+  }
 `;
 export const InputEdit = styled.input`
   padding: 14px 32px 14px 16px;
@@ -38,9 +44,12 @@ export const InputEdit = styled.input`
   background: transparent;
   color: #fff;
   border: 2px solid rgb(233, 67, 94);
+  @media (max-width: 550px) {
+    width: 240px;
+  }
 `;
 export const Button = styled.button`
-  padding: 16px;
+  padding: 16px; 
   border: none;
   border-radius: 0 10px 10px 0;
   cursor: pointer;
@@ -48,6 +57,9 @@ export const Button = styled.button`
   background: black;
   color: #fff;
   text-transform: capitalize;
+  @media (max-width: 550px) {
+    padding: 16px 12px; 
+  }
 `;
 export const ButtonEdit = styled.button`
   padding: 16px;
@@ -60,6 +72,9 @@ export const ButtonEdit = styled.button`
   text-transform: capitalize;
   background: rgb(233, 67, 94);
   padding: 16px 22px;
+  @media (max-width: 550px) {
+    padding: 16px 12px; 
+  }
 `;
 
 export const Option = styled.div`
